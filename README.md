@@ -1,4 +1,4 @@
-## Course Outline
+## MCP: Build Rich-Context AI Apps with Anthropic - deeplearning.ai
 
 - Lesson 1: Why MCP? - video only
 - Lesson 2: MCP Architecture - video only
