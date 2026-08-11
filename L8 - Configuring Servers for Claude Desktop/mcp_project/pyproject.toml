@@ -1,0 +1,20 @@
+[project]
+name = "mcp-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "aravinda_gn", email = "aravinda.gn123@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "arxiv>=4.0.1",
+    "mcp>=2.0.0",
+]
+
+[project.scripts]
+mcp-project = "mcp_project:main"
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"
